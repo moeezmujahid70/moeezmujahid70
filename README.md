@@ -34,7 +34,6 @@ moeez = {
     "frontend":  ["Next.js", "TypeScript", "Supabase"],
     "infra":     ["Docker", "GitHub Actions", "Vercel", "AWS"],
     "learning":  "German 🇩🇪 (A1.2 ... slowly but surely)",
-    "building":  "Subly — a short-term sublet marketplace for Germany",
 }
 ```
  
@@ -76,25 +75,14 @@ moeez = {
  
 <div align="center">
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moeezmujahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeezmujahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moeezmujahid70&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeezmujahid70&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
  
 </div>
  
 <div align="center">
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=moeezmujahid70&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
- 
-</div>
- 
----
- 
-## 🏗️ Featured Projects
- 
-<div align="center">
- 
-[![RAG Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=moeezmujahid&repo=rag-benchmarking-pipeline&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/moeezmujahid)
-[![JARVIS](https://github-readme-stats.vercel.app/api/pin/?username=moeezmujahid&repo=jarvis-voice-agent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/moeezmujahid)
  
 </div>
  
@@ -116,8 +104,6 @@ moeez = {
  
 <!-- Animated Footer -->
 <div align="center">
- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=100&section=footer&animation=fadeIn" />
  
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Let's+build+something+intelligent+together.;Always+open+to+interesting+AI+problems.;moeezmujahid70%40gmail.com" alt="Footer" />
  
