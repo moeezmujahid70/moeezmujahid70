@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey%2C+I'm+Moeez+Mujahid+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Python+Backend+Dev;Building+intelligent+systems+%F0%9F%A4%96" alt="Typing SVG" />
  
 <br/>
-<br/>
-<br/>
 </div>
  
 ---
@@ -16,8 +14,8 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeezmujahid/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeezmujahid70@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/moeezmujahid)
-[![Profile Views](https://komarev.com/ghpvc/?username=moeezmujahid&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/moeezmujahid)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c4be0fdd4c70d797)
+[![Profile Views](https://komarev.com/ghpvc/?username=moeezmujahid&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/moeezmujahid70)
  
 </div>
  
@@ -53,7 +51,7 @@ moeez = {
 >
 > Open to AI/ML engineering contracts and Python backend projects.
  
-[![Hire Me](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-%236FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/moeezmujahid)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-%236FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c4be0fdd4c70d797)
  
 </div>
  
