@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
  
 <!-- Animated Header SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey%2C+I'm+Moeez+Mujahid+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Python+Backend+Dev;Building+intelligent+systems+%F0%9F%A4%96" alt="Typing SVG" />
@@ -83,7 +83,7 @@ moeez = {
  
 <div align="center">
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=moeezmujahid&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moeezmujahid70&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
  
 </div>
  
