@@ -4,7 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey%2C+I'm+Moeez+Mujahid+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Python+Backend+Dev;Building+intelligent+systems+%F0%9F%A4%96" alt="Typing SVG" />
  
 <br/>
- 
+<br/>
+<br/>
 </div>
  
 ---
