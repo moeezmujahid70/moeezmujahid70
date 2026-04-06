@@ -5,9 +5,6 @@
  
 <br/>
  
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=120&section=header&text=&animation=fadeIn" />
- 
 </div>
  
 ---
@@ -72,13 +69,6 @@ moeez = {
 ---
  
 ## 📊 GitHub Stats
- 
-<div align="center">
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moeezmujahid70&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeezmujahid70&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
- 
-</div>
  
 <div align="center">
  
