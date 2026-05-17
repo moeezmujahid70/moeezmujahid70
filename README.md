@@ -29,7 +29,7 @@ moeez = {
     "backend":   ["FastAPI", "Django", "Flask", "PostgreSQL", "MongoDB"],
     "frontend":  ["Next.js", "TypeScript", "Supabase"],
     "infra":     ["Docker", "GitHub Actions", "Vercel", "AWS"],
-    "learning":  "German 🇩🇪 (A1.2 ... slowly but surely)",
+    "learning":  "German 🇩🇪 (A2 ... slowly but surely)",
 }
 ```
  
